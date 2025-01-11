@@ -1,0 +1,370 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Spaghetti Bolognese",
+      "image": "https://www.cookingclassy.com/wp-content/uploads/2018/08/bolognese-4.jpg",
+      "description": "A classic Italian pasta dish with rich and savory Bolognese sauce.",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 45,
+      "total_time_minutes": 60,
+      "servings": 4,
+      "ingredients": [
+        { "name": "spaghetti", "quantity": "400", "unit": "grams" },
+        { "name": "ground beef", "quantity": "500", "unit": "grams" },
+        { "name": "onion", "quantity": "1", "unit": "medium, diced" },
+        { "name": "garlic cloves", "quantity": "2", "unit": "minced" },
+        { "name": "canned tomatoes", "quantity": "400", "unit": "grams" },
+        { "name": "tomato paste", "quantity": "2", "unit": "tablespoons" },
+        { "name": "olive oil", "quantity": "2", "unit": "tablespoons" },
+        { "name": "beef stock", "quantity": "250", "unit": "ml" },
+        { "name": "salt", "quantity": "to taste", "unit": null },
+        { "name": "black pepper", "quantity": "to taste", "unit": null },
+        { "name": "Parmesan cheese", "quantity": "as needed", "unit": null }
+      ],
+      "steps": [
+        { "step_number": 1, "instruction": "Cook the spaghetti until al dente." },
+        { "step_number": 2, "instruction": "Heat olive oil, cook onion and garlic until softened." },
+        { "step_number": 3, "instruction": "Add ground beef and cook until browned." },
+        { "step_number": 4, "instruction": "Stir in canned tomatoes, tomato paste, and beef stock." },
+        { "step_number": 5, "instruction": "Simmer for 30 minutes, season with salt and pepper." },
+        { "step_number": 6, "instruction": "Serve over spaghetti with Parmesan cheese." }
+      ],
+      "nutrition_facts_per_serving": {
+        "calories": 600,
+        "protein": "28",
+        "carbohydrates": "75",
+        "fat": "20"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Chicken Curry",
+      "image": "https://www.averiecooks.com/wp-content/uploads/2017/12/thaichickencurry-9.jpg",
+      "description": "A spicy and flavorful chicken curry with coconut milk.",
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "total_time_minutes": 60,
+      "servings": 4,
+      "ingredients": [
+        { "name": "chicken thighs", "quantity": "500", "unit": "grams" },
+        { "name": "onion", "quantity": "1", "unit": "large, diced" },
+        { "name": "garlic cloves", "quantity": "3", "unit": "minced" },
+        { "name": "ginger", "quantity": "1", "unit": "tablespoon, grated" },
+        { "name": "curry powder", "quantity": "2", "unit": "tablespoons" },
+        { "name": "coconut milk", "quantity": "400", "unit": "ml" },
+        { "name": "tomato paste", "quantity": "2", "unit": "tablespoons" },
+        { "name": "vegetable oil", "quantity": "2", "unit": "tablespoons" },
+        { "name": "salt", "quantity": "to taste", "unit": null },
+        { "name": "cilantro", "quantity": "to garnish", "unit": null }
+      ],
+      "steps": [
+        { "step_number": 1, "instruction": "Heat oil, sauté onion, garlic, and ginger." },
+        { "step_number": 2, "instruction": "Add curry powder and cook for 1 minute." },
+        { "step_number": 3, "instruction": "Add chicken and cook until browned." },
+        { "step_number": 4, "instruction": "Stir in coconut milk and tomato paste." },
+        { "step_number": 5, "instruction": "Simmer for 30 minutes and garnish with cilantro." }
+      ],
+      "nutrition_facts_per_serving": {
+        "calories": 450,
+        "protein": "25",
+        "carbohydrates": "10",
+        "fat": "35"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Vegetable Stir Fry",
+      "image": "https://natashaskitchen.com/wp-content/uploads/2020/08/Vegetable-Stir-Fry-2.jpg",
+      "description": "A quick and healthy mix of stir-fried vegetables.",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 15,
+      "total_time_minutes": 25,
+      "servings": 2,
+      "ingredients": [
+        { "name": "broccoli", "quantity": "1", "unit": "cup, chopped" },
+        { "name": "carrots", "quantity": "1", "unit": "cup, sliced" },
+        { "name": "bell peppers", "quantity": "1", "unit": "cup, diced" },
+        { "name": "soy sauce", "quantity": "3", "unit": "tablespoons" },
+        { "name": "sesame oil", "quantity": "1", "unit": "tablespoon" },
+        { "name": "garlic cloves", "quantity": "2", "unit": "minced" },
+        { "name": "ginger", "quantity": "1", "unit": "teaspoon, grated" }
+      ],
+      "steps": [
+        { "step_number": 1, "instruction": "Heat sesame oil in a pan." },
+        { "step_number": 2, "instruction": "Sauté garlic and ginger for 1 minute." },
+        { "step_number": 3, "instruction": "Add vegetables and stir-fry for 5-7 minutes." },
+        { "step_number": 4, "instruction": "Stir in soy sauce and cook for another 2 minutes." }
+      ],
+      "nutrition_facts_per_serving": {
+        "calories": 120,
+        "protein": "5",
+        "carbohydrates": "15",
+        "fat": "4"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Classic Pancakes",
+      "image": "https://www.julieseatsandtreats.com/wp-content/uploads/2021/08/Pancake-Mix-Square.jpg",
+      "description": "Fluffy pancakes perfect for breakfast.",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 20,
+      "total_time_minutes": 30,
+      "servings": 4,
+      "ingredients": [
+        { "name": "all-purpose flour", "quantity": "1", "unit": "cup" },
+        { "name": "milk", "quantity": "1", "unit": "cup" },
+        { "name": "egg", "quantity": "1", "unit": "large" },
+        { "name": "sugar", "quantity": "2", "unit": "tablespoons" },
+        { "name": "baking powder", "quantity": "2", "unit": "teaspoons" },
+        { "name": "butter", "quantity": "2", "unit": "tablespoons, melted" },
+        { "name": "salt", "quantity": "1/4", "unit": "teaspoon" }
+      ],
+      "steps": [
+        { "step_number": 1, "instruction": "Mix dry ingredients in a bowl." },
+        { "step_number": 2, "instruction": "Whisk wet ingredients and combine with dry ingredients." },
+        { "step_number": 3, "instruction": "Heat a non-stick pan and pour batter to form pancakes." },
+        { "step_number": 4, "instruction": "Cook until bubbles form, flip, and cook until golden brown." }
+      ],
+      "nutrition_facts_per_serving": {
+        "calories": 200,
+        "protein": "5",
+        "carbohydrates": "30",
+        "fat": "6"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Caesar Salad",
+      "image": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500/k/Photo/Recipes/2019-10-recipe-brussels-sprouts-caesar-salad/BrusselsSproutCaesarSaladOption1",
+      "description": "A refreshing salad with a creamy Caesar dressing.",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 0,
+      "total_time_minutes": 15,
+      "servings": 4,
+      "ingredients": [
+        { "name": "romaine lettuce", "quantity": "1", "unit": "head, chopped" },
+        { "name": "Parmesan cheese", "quantity": "1/4", "unit": "cup, grated" },
+        { "name": "croutons", "quantity": "1", "unit": "cup" },
+        { "name": "Caesar dressing", "quantity": "1/3", "unit": "cup" }
+      ],
+      "steps": [
+        { "step_number": 1, "instruction": "Wash and chop the lettuce." },
+        { "step_number": 2, "instruction": "Toss lettuce with dressing, croutons, and Parmesan cheese." },
+        { "step_number": 3, "instruction": "Serve immediately." }
+      ],
+      "nutrition_facts_per_serving": {
+        "calories": 180,
+        "protein": "5",
+        "carbohydrates": "15",
+        "fat": "12"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Spaghetti Aglio e Olio",
+      "image": "https://www.simplyrecipes.com/thmb/zndk8hnOZ15pA9rXtOaJt1J-2zw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Spaghetti-Aglio-e-Olio-LEAD-1-33e4ba9364ca4b828ad07fc1a489084a.jpg",
+      "description": "A simple yet flavorful pasta dish with garlic, olive oil, and chili flakes.",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 15,
+      "total_time_minutes": 25,
+      "servings": 2,
+      "ingredients": [
+        { "name": "spaghetti", "quantity": "200", "unit": "grams" },
+        { "name": "garlic", "quantity": "4", "unit": "cloves, sliced" },
+        { "name": "olive oil", "quantity": "1/4", "unit": "cup" },
+        { "name": "red chili flakes", "quantity": "1/2", "unit": "teaspoon" },
+        { "name": "parsley", "quantity": "1", "unit": "tablespoon, chopped" },
+        { "name": "Parmesan cheese", "quantity": "2", "unit": "tablespoons, grated" }
+      ],
+      "steps": [
+        { "step_number": 1, "instruction": "Cook spaghetti according to package instructions, drain, and set aside." },
+        { "step_number": 2, "instruction": "Heat olive oil in a pan and sauté garlic and red chili flakes until fragrant." },
+        { "step_number": 3, "instruction": "Add cooked spaghetti to the pan and toss to coat in the garlic oil." },
+        { "step_number": 4, "instruction": "Top with parsley and Parmesan cheese, then serve immediately." }
+      ],
+      "nutrition_facts_per_serving": {
+        "calories": 320,
+        "protein": "8",
+        "carbohydrates": "40",
+        "fat": "14"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Margarita Pizza",
+      "image": "https://cdn.apartmenttherapy.info/image/fetch/f_auto,q_auto:eco,w_1460/https://storage.googleapis.com/gen-atmedia/3/2012/07/f2203c0e403286947dcf80815b656236fec71e88.jpeg",
+      "description": "Classic pizza topped with fresh tomatoes, mozzarella, and basil.",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 12,
+      "total_time_minutes": 27,
+      "servings": 4,
+      "ingredients": [
+        { "name": "pizza dough", "quantity": "1", "unit": "ball" },
+        { "name": "tomato sauce", "quantity": "1/2", "unit": "cup" },
+        { "name": "mozzarella cheese", "quantity": "1", "unit": "cup, shredded" },
+        { "name": "fresh basil leaves", "quantity": "1/4", "unit": "cup" },
+        { "name": "olive oil", "quantity": "1", "unit": "tablespoon" }
+      ],
+      "steps": [
+        { "step_number": 1, "instruction": "Preheat the oven to 475°F (245°C)." },
+        { "step_number": 2, "instruction": "Roll out the pizza dough on a floured surface." },
+        { "step_number": 3, "instruction": "Spread tomato sauce over the dough and top with mozzarella cheese." },
+        { "step_number": 4, "instruction": "Bake the pizza in the oven for 10-12 minutes until the crust is golden and the cheese is melted." },
+        { "step_number": 5, "instruction": "Remove from oven and top with fresh basil leaves and a drizzle of olive oil." }
+      ],
+      "nutrition_facts_per_serving": {
+        "calories": 250,
+        "protein": "12",
+        "carbohydrates": "28",
+        "fat": "12"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Chicken Caesar Salad",
+      "image": "https://healthyfitnessmeals.com/wp-content/uploads/2020/05/instagram-In-Stream_Square___Low-carb-Caesar-salad-4.jpg",
+      "description": "Grilled chicken served on a bed of romaine lettuce with Caesar dressing.",
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 15,
+      "total_time_minutes": 35,
+      "servings": 2,
+      "ingredients": [
+        { "name": "chicken breast", "quantity": "2", "unit": "pieces" },
+        { "name": "romaine lettuce", "quantity": "1", "unit": "head, chopped" },
+        { "name": "Caesar dressing", "quantity": "1/4", "unit": "cup" },
+        { "name": "Parmesan cheese", "quantity": "2", "unit": "tablespoons, grated" },
+        { "name": "croutons", "quantity": "1/2", "unit": "cup" }
+      ],
+      "steps": [
+        { "step_number": 1, "instruction": "Grill or pan-fry the chicken breasts until cooked through, then slice them." },
+        { "step_number": 2, "instruction": "Wash and chop the romaine lettuce." },
+        { "step_number": 3, "instruction": "Toss the lettuce with Caesar dressing, croutons, and Parmesan cheese." },
+        { "step_number": 4, "instruction": "Top with sliced grilled chicken and serve." }
+      ],
+      "nutrition_facts_per_serving": {
+        "calories": 400,
+        "protein": "35",
+        "carbohydrates": "12",
+        "fat": "22"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Beef Tacos",
+      "image": "https://th.bing.com/th/id/OIP.gQh0HA23VrI2WWrYCQeSpgHaLH?rs=1&pid=ImgDetMain",
+      "description": "Ground beef, cheese, lettuce, and salsa wrapped in soft corn tortillas.",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 10,
+      "total_time_minutes": 25,
+      "servings": 4,
+      "ingredients": [
+        { "name": "ground beef", "quantity": "500", "unit": "grams" },
+        { "name": "corn tortillas", "quantity": "8", "unit": "pieces" },
+        { "name": "cheddar cheese", "quantity": "1", "unit": "cup, shredded" },
+        { "name": "lettuce", "quantity": "1", "unit": "cup, shredded" },
+        { "name": "salsa", "quantity": "1/2", "unit": "cup" }
+      ],
+      "steps": [
+        { "step_number": 1, "instruction": "Cook the ground beef in a pan until browned, drain excess fat." },
+        { "step_number": 2, "instruction": "Warm the tortillas in the oven or on a skillet." },
+        { "step_number": 3, "instruction": "Assemble the tacos by adding beef, shredded lettuce, cheese, and salsa to each tortilla." },
+        { "step_number": 4, "instruction": "Serve immediately with extra salsa on the side." }
+      ],
+      "nutrition_facts_per_serving": {
+        "calories": 350,
+        "protein": "20",
+        "carbohydrates": "30",
+        "fat": "18"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Vegetable Soup",
+      "image": "https://natashaskitchen.com/wp-content/uploads/2021/05/Vegetable-Soup-4.jpg",
+      "description": "A hearty and healthy soup with a variety of fresh vegetables.",
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 30,
+      "total_time_minutes": 45,
+      "servings": 4,
+      "ingredients": [
+        { "name": "carrot", "quantity": "2", "unit": "medium, diced" },
+        { "name": "celery", "quantity": "2", "unit": "stalks, chopped" },
+        { "name": "potato", "quantity": "2", "unit": "medium, diced" },
+        { "name": "onion", "quantity": "1", "unit": "medium, chopped" },
+        { "name": "vegetable broth", "quantity": "4", "unit": "cups" }
+      ],
+      "steps": [
+        { "step_number": 1, "instruction": "Heat a pot over medium heat and sauté onion, carrot, and celery until softened." },
+        { "step_number": 2, "instruction": "Add potato and vegetable broth, bring to a boil." },
+        { "step_number": 3, "instruction": "Reduce heat and simmer for 20-25 minutes until vegetables are tender." },
+        { "step_number": 4, "instruction": "Serve hot with crusty bread." }
+      ],
+      "nutrition_facts_per_serving": {
+        "calories": 180,
+        "protein": "4",
+        "carbohydrates": "40",
+        "fat": "3"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Pancakes",
+      "image": "https://thebatchlady.com/wp-content/uploads/2022/01/american-pancakes.jpg",
+      "description": "Fluffy pancakes served with syrup and butter.",
+      "prep_time_minutes": 5,
+      "cook_time_minutes": 10,
+      "total_time_minutes": 15,
+      "servings": 2,
+      "ingredients": [
+        { "name": "all-purpose flour", "quantity": "1", "unit": "cup" },
+        { "name": "baking powder", "quantity": "1", "unit": "teaspoon" },
+        { "name": "milk", "quantity": "1", "unit": "cup" },
+        { "name": "egg", "quantity": "1", "unit": "large" },
+        { "name": "butter", "quantity": "2", "unit": "tablespoons, melted" }
+      ],
+      "steps": [
+        { "step_number": 1, "instruction": "In a bowl, mix the flour, baking powder, and milk." },
+        { "step_number": 2, "instruction": "Add the egg and melted butter, stir until smooth." },
+        { "step_number": 3, "instruction": "Heat a non-stick pan over medium heat and pour batter to form pancakes." },
+        { "step_number": 4, "instruction": "Cook for 2-3 minutes on each side, then serve with syrup and butter." }
+      ],
+      "nutrition_facts_per_serving": {
+        "calories": 250,
+        "protein": "7",
+        "carbohydrates": "35",
+        "fat": "9"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Chocolate Chip Cookies",
+      "image": "https://th.bing.com/th/id/OIP.ouwvVto2hxB1W8-T09jmNAHaLH?rs=1&pid=ImgDetMain",
+      "description": "Classic soft cookies with melted chocolate chips.",
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 12,
+      "total_time_minutes": 22,
+      "servings": 12,
+      "ingredients": [
+        { "name": "all-purpose flour", "quantity": "2", "unit": "cups" },
+        { "name": "baking soda", "quantity": "1", "unit": "teaspoon" },
+        { "name": "unsalted butter", "quantity": "1", "unit": "cup" },
+        { "name": "sugar", "quantity": "1/2", "unit": "cup" },
+        { "name": "chocolate chips", "quantity": "1", "unit": "cup" }
+      ],
+      "steps": [
+        { "step_number": 1, "instruction": "Preheat the oven to 350°F (175°C) and line a baking sheet with parchment paper." },
+        { "step_number": 2, "instruction": "Cream together butter and sugar, then add flour and baking soda." },
+        { "step_number": 3, "instruction": "Fold in the chocolate chips." },
+        { "step_number": 4, "instruction": "Scoop dough onto the baking sheet and bake for 10-12 minutes." }
+      ],
+      "nutrition_facts_per_serving": {
+        "calories": 200,
+        "protein": "2",
+        "carbohydrates": "30",
+        "fat": "10"
+      }
+    }
+  ]
+}
