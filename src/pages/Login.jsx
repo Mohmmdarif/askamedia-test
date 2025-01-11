@@ -2,7 +2,7 @@ import React, { useContext, useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import staticCredential from "../mocks/credentials.json";
 import { validateCredential } from "../utils/validations/loginValidation";
-import Spinner from "../components/spinner";
+import Spinner from "../components/Spinner";
 import AuthRedirect from "../components/auth/AuthRedirect";
 import Notification from "../components/Notification";
 import recipeData from "../mocks/recipe.json";
