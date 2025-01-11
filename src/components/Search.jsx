@@ -24,7 +24,7 @@ export default function Search({ onSearch }) {
         value={search}
         onChange={(e) => setSearch(e.target.value)}
         placeholder="Search recipe..."
-        className="w-full px-10 py-2 mt-5 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-orange-600"
+        className="w-full px-10 py-2 mt-5 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-orange-600 dark:text-black"
       />
     </form>
   );

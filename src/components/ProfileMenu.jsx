@@ -61,7 +61,7 @@ export default function ProfileMenu() {
       </button>
       {showMenu && (
         <div className="dark:text-black">
-          <ul className="absolute top-20 right-10 md:right-9 bg-white shadow-md rounded-md py-2 w-32 md:w-48 text-sm md:text-base font-normal">
+          <ul className="absolute top-20 right-10 md:right-[105px] bg-white shadow-md rounded-md py-2 w-32 md:w-48 text-sm md:text-base font-normal">
             <li className="hover:bg-gray-100 flex items-center gap-2">
               <button
                 className="w-full flex items-center gap-2 px-3 py-1.5"
