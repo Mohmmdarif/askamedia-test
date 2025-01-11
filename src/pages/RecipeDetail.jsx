@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
-import Spinner from "../components/spinner";
+import Spinner from "../components/Spinner";
 import CardRecipe from "../components/CardRecipe";
 
 export default function RecipeDetail() {
